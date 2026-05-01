@@ -22,7 +22,7 @@ A full-stack restaurant web application designed to simulate great experience fo
   <img src="https://github.com/user-attachments/assets/feeacab1-0122-4088-9847-84b94df56e3e" />
   <img src="https://github.com/user-attachments/assets/6c6f61c5-554a-4cd5-b324-f80cb35c66b7" />
   <imgsrc="https://github.com/user-attachments/assets/966c1140-25bd-4cf5-970f-80ee0053dc11" />
-  ## Project Structure
+ ## Project Structure
 - /frontend
 - /backend
 - /database
