@@ -14,7 +14,7 @@ A full-stack restaurant web application designed to simulate great experience fo
 1. Open the project folder
 2. Run using XAMPP / local server
 3. Open in browser:
-   http://localhost/Resturantwebsite/home
+   http://localhost/Resturant-website/home
    ## Screenshots
   <img src="https://github.com/user-attachments/assets/80212a15-2923-4d96-a3f5-088f09788cab" />
   <img src="https://github.com/user-attachments/assets/82734f14-d26b-4a7e-8af8-5d2a00ec4a9e" />
